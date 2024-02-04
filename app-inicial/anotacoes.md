@@ -6,8 +6,8 @@
 - ✅ [React]Componente usando props.children; 
 - ✅ [React]Componente usando props; 
 - ✅ [React]Componente com eventos; 
-- ✅ [React]Componente com estado; 
 
+- ✅ [React]Componentes com estado; 
 - 🔴 [React]Comunicação entre Componentes (direta);
 - 🔴 [React]Comunicação entre Componentes (indireta);
 - 🔴 [React]Renderização Conicional;
