@@ -12,4 +12,4 @@
 - ✅ [React]Comunicação entre Componentes (indireta);
 
 - ✅ [React]Renderização Condicional;
-- 🔴 [React]Renderização de Listas;
+- ✅ [React]Renderização de Listas;
