@@ -11,5 +11,5 @@
 - ✅ [React]Comunicação entre Componentes (direta);
 - ✅ [React]Comunicação entre Componentes (indireta);
 
-- 🔴 [React]Renderização Conicional;
+- ✅ [React]Renderização Condicional;
 - 🔴 [React]Renderização de Listas;
